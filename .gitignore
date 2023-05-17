@@ -2,3 +2,4 @@ DDRACE
 *copy.py
 __pycache__/
 *.sm
+test*

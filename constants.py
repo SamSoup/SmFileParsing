@@ -6,3 +6,5 @@ DIFFICULTY_MAPPER = {
 }
 
 CHART_TYPES = ["dance-single", "dance-double"]
+
+BEATS_IN_A_MEASURE = 4
